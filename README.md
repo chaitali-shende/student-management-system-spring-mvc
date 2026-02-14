@@ -100,12 +100,44 @@ src/
 - Edit Student Page
 - Student List with Pagination
 
+ ---
+
   ## 📸 Output Screenshots
 
   # Welcome Page:
 
 ![](screenshots/welcome.png)
 
+ # Add Student Page:
+
+ ![](screenshots/addStudent.png)
+
+ # Student List:
+
+ ![](screenshots/studentList.png)
+
+
+ # Edit Form:
+
+ ![](screenshots/editForm.png)
+
+
+# Update Successful:
+
+![](screenshots/update.png)
+
+# Delete Confirmation:
+
+![](screenshots/delete_confirmation.png)
+
+# Delete Success:
+
+![](screenshots/delete_success.png)
+
+# Database:
+
+![](screenshots/db.png)
+ 
 ---
 
 ## 🎯 Learning Outcomes

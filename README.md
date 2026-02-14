@@ -100,6 +100,12 @@ src/
 - Edit Student Page
 - Student List with Pagination
 
+  ## 📸 Output Screenshots
+
+  # Welcome Page:
+
+![](screenshots/welcome.png)
+
 ---
 
 ## 🎯 Learning Outcomes

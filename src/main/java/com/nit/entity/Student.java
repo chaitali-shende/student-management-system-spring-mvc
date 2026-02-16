@@ -23,7 +23,7 @@ import lombok.RequiredArgsConstructor;
 @Table(name="student_db")
 public class Student implements Serializable {
 	@Id
-	@SequenceGenerator(name="gen1",sequenceName = "stud_id_seq", initialValue=100, allocationSize = 1)
+	@SequenceGenerator(name="gen1",sequenceName = "stud_id_seq", initialValue=1000, allocationSize = 1)
 	@GeneratedValue(generator = "gen1", strategy = GenerationType.SEQUENCE)
 	private Long id;
 	

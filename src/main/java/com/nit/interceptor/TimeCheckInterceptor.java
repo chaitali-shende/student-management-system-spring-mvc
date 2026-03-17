@@ -29,8 +29,7 @@ public class TimeCheckInterceptor implements HandlerInterceptor{
 			RequestDispatcher rd= req.getRequestDispatcher("/timeout.jsp");
 			rd.forward(req, res);
 			return false;
-		}
-		
+		}	
 		return true;
 	}
 }
